@@ -1,1 +1,1 @@
-# CODALPHA-Task-2
+# CodeAlpha_Project_StockTradingPlatform
